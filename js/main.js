@@ -7,9 +7,9 @@ const app = {
     fetchWeather: (ev) => {
       //use the values from latitude and longitude to fetch the weather
       //TODO: get lat value from id = latitude input
-      let lat = document.getElementById('latitude').value;
+      let lat
       //TODO: get lon value from id = longitude input
-      let lon = document.getElementById('longitude').value;
+      let lon 
       //Add your Key for the API Call
       let key = '';
       let lang = 'en';

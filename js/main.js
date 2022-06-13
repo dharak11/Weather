@@ -47,6 +47,7 @@ const app = {
       //TODO: If resp.daily has more then 3 values print only first 3 values. else print all Values.
       //TODO:The Card should show image from day.weather[0].icon. url for image is src="http://openweathermap.org/img/wn/${day.weather[0].icon}@4x.png"
       //TODO:All other Data  of Card should look as per the README.md ScreenShort.
+      row.innerHTML = 'TODO: Your resp.daily.map';
     },
   };
   

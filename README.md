@@ -2,7 +2,7 @@
 ## Create Weather APP API KEY
     * create account on https://openweathermap.org/
     * Under My account go to My API Keys.
-![alt](img/API.png)
+        ![alt](img/API.png)
     * copy your API KEy and use that in code.
     * Documentation for API call https://openweathermap.org/current.
     * Create URL from the documentation.

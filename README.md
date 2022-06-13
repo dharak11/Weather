@@ -6,6 +6,7 @@
     * Documentation for API call https://openweathermap.org/current.
     * Create URL from the documentation.
 ## Perform All TODO:
+    * in main.js file there are TODO at each TODO you have to write your logic.
 ##  GeoLocation
     * https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition
     * Refer document to perform current location and get Weather of current location. 
